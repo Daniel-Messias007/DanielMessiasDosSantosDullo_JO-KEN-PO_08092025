@@ -1,0 +1,28 @@
+C:\Users\user\Desktop\JO-KEN-PO\JO-KEN-PO\obj\Debug\net8.0\JO-KEN-PO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\JO-KEN-PO\JO-KEN-PO\obj\Debug\net8.0\JO-KEN-PO.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\JO-KEN-PO\JO-KEN-PO\obj\Debug\net8.0\JO-KEN-PO.AssemblyInfo.cs
+C:\Users\user\Desktop\JO-KEN-PO\JO-KEN-PO\obj\Debug\net8.0\JO-KEN-PO.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\JO-KEN-PO\JO-KEN-PO\bin\Debug\net8.0\JO-KEN-PO.exe
+C:\Users\user\Desktop\JO-KEN-PO\JO-KEN-PO\bin\Debug\net8.0\JO-KEN-PO.deps.json
+C:\Users\user\Desktop\JO-KEN-PO\JO-KEN-PO\bin\Debug\net8.0\JO-KEN-PO.runtimeconfig.json
+C:\Users\user\Desktop\JO-KEN-PO\JO-KEN-PO\bin\Debug\net8.0\JO-KEN-PO.dll
+C:\Users\user\Desktop\JO-KEN-PO\JO-KEN-PO\bin\Debug\net8.0\JO-KEN-PO.pdb
+C:\Users\user\Desktop\JO-KEN-PO\JO-KEN-PO\obj\Debug\net8.0\JO-KEN-PO.dll
+C:\Users\user\Desktop\JO-KEN-PO\JO-KEN-PO\obj\Debug\net8.0\refint\JO-KEN-PO.dll
+C:\Users\user\Desktop\JO-KEN-PO\JO-KEN-PO\obj\Debug\net8.0\JO-KEN-PO.pdb
+C:\Users\user\Desktop\JO-KEN-PO\JO-KEN-PO\obj\Debug\net8.0\JO-KEN-PO.genruntimeconfig.cache
+C:\Users\user\Desktop\JO-KEN-PO\JO-KEN-PO\obj\Debug\net8.0\ref\JO-KEN-PO.dll
+D:\1 ano etec\TPA\exer 08-09\JO-KEN-PO\JO-KEN-PO\obj\Debug\net8.0\JO-KEN-PO.GeneratedMSBuildEditorConfig.editorconfig
+D:\1 ano etec\TPA\exer 08-09\JO-KEN-PO\JO-KEN-PO\obj\Debug\net8.0\JO-KEN-PO.AssemblyInfoInputs.cache
+D:\1 ano etec\TPA\exer 08-09\JO-KEN-PO\JO-KEN-PO\obj\Debug\net8.0\JO-KEN-PO.AssemblyInfo.cs
+D:\1 ano etec\TPA\exer 08-09\JO-KEN-PO\JO-KEN-PO\obj\Debug\net8.0\JO-KEN-PO.csproj.CoreCompileInputs.cache
+D:\1 ano etec\TPA\exer 08-09\JO-KEN-PO\JO-KEN-PO\obj\Debug\net8.0\JO-KEN-PO.dll
+D:\1 ano etec\TPA\exer 08-09\JO-KEN-PO\JO-KEN-PO\obj\Debug\net8.0\refint\JO-KEN-PO.dll
+D:\1 ano etec\TPA\exer 08-09\JO-KEN-PO\JO-KEN-PO\obj\Debug\net8.0\JO-KEN-PO.pdb
+D:\1 ano etec\TPA\exer 08-09\JO-KEN-PO\JO-KEN-PO\bin\Debug\net8.0\JO-KEN-PO.exe
+D:\1 ano etec\TPA\exer 08-09\JO-KEN-PO\JO-KEN-PO\bin\Debug\net8.0\JO-KEN-PO.deps.json
+D:\1 ano etec\TPA\exer 08-09\JO-KEN-PO\JO-KEN-PO\bin\Debug\net8.0\JO-KEN-PO.runtimeconfig.json
+D:\1 ano etec\TPA\exer 08-09\JO-KEN-PO\JO-KEN-PO\bin\Debug\net8.0\JO-KEN-PO.dll
+D:\1 ano etec\TPA\exer 08-09\JO-KEN-PO\JO-KEN-PO\bin\Debug\net8.0\JO-KEN-PO.pdb
+D:\1 ano etec\TPA\exer 08-09\JO-KEN-PO\JO-KEN-PO\obj\Debug\net8.0\JO-KEN-PO.genruntimeconfig.cache
+D:\1 ano etec\TPA\exer 08-09\JO-KEN-PO\JO-KEN-PO\obj\Debug\net8.0\ref\JO-KEN-PO.dll
